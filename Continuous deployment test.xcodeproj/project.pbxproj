@@ -357,7 +357,7 @@
 				DEVELOPMENT_TEAM = 4D26J7K3T2;
 				INFOPLIST_FILE = "Continuous deployment test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.holvi.continious.deployment.test.Continuous-deployment-test";
+				PRODUCT_BUNDLE_IDENTIFIER = com.holvi.continious.deployment.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -372,7 +372,7 @@
 				DEVELOPMENT_TEAM = 4D26J7K3T2;
 				INFOPLIST_FILE = "Continuous deployment test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.holvi.continious.deployment.test.Continuous-deployment-test";
+				PRODUCT_BUNDLE_IDENTIFIER = com.holvi.continious.deployment.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
